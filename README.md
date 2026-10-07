@@ -356,7 +356,7 @@ Possible future improvements include:
 
 The current version of the application, including the implementation, database integration, frontend functionality, attendance management modules, and project documentation, was completed by:
 
-### JASWAN KUMAR K
+### JUANITA RANSOM L P
 
 **B.Tech – Information Technology**  
 
